@@ -1,0 +1,2 @@
+language = "java10"
+run = "OpenJDK Runtime Environment (build 10.0.2+13-Ubuntu-1ubuntu0.18.04.4)"
